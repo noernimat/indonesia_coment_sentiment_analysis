@@ -1,0 +1,2 @@
+# indonesia_coment_sentiment_analysis
+This repository using pypsastrawi
